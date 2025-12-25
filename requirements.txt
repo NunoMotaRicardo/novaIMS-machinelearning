@@ -7,3 +7,4 @@ scipy
 tabulate
 ipython
 jupyter
+shap
